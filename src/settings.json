@@ -1,0 +1,68 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "CtaTwoColumnsWithPhoto"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Get Lost in Stories at Hung Book Store",
+  "subtitle": "Your one-stop shop for all things literary, where every page holds a new adventure"
+}
